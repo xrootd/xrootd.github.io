@@ -46,6 +46,7 @@ Past Documentation
 |18-Sep-2018|[html]({{ site.url }}/doc/dev49/pss_config.htm) [pdf]({{ site.url }}/doc/dev49/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.9)    |
 |28-Jun-2017|[html]({{ site.url }}/doc/dev47/pss_config.htm) [pdf]({{ site.url }}/doc/dev47/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.7)    |
 |11-Jan-2017|[html]({{ site.url }}/doc/dev46/pss_config.htm) [pdf]({{ site.url }}/doc/dev46/pss_config.pdf)        |Proxy Storage Services Configuration Reference (4.6)    |
+|27-Jul-2021|[html]({{ site.url }}/doc/dev54/cms_config.htm) [pdf]({{ site.url }}/doc/dev54/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.4)                    |
 |13-jun-2021|[html]({{ site.url }}/doc/dev53/cms_config.htm) [pdf]({{ site.url }}/doc/dev53/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.3)                    |
 |15-Oct-2020|[html]({{ site.url }}/doc/dev50/cms_config.htm) [pdf]({{ site.url }}/doc/dev50/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.0)                    |
 |08-May-2019|[html]({{ site.url }}/doc/dev410/cms_config.htm) [pdf]({{ site.url }}/doc/dev410/cms_config.pdf)      |Cluster Management Service Configuration Reference (4.10)                    |
