@@ -5,7 +5,7 @@ title:  XRootD achieves 'passing' level of OpenSSF best practices
 
 ## XRootD achieves 'passing' level of OpenSSF best practices
 
-<a href="https://www.bestpractices.dev/en">
+<a href="https://www.bestpractices.dev/en/projects/?q=xrootd">
 <img src="https://openssf.org/wp-content/uploads/2024/03/bestpracticesbadge.svg"
      style="display: inline; float: right; margin: 20px;"
      alt="OpenSSF Best Practices" width="200" />
@@ -32,7 +32,6 @@ processing reported security vulnerabilities in a timely manner, and publishing
 the end of the process.
 
 The full report for XRootD can be found at <https://www.bestpractices.dev/en/projects/?q=xrootd>.
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11900/badge)](https://www.bestpractices.dev/projects/11900)
 
 We will continue our efforts to improve XRootD so that we can produce higher
 quality software and, as a result, obtain higher levels of certification in the
