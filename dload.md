@@ -18,6 +18,7 @@ and download the source tarballs:
 
 |Date      |File                                                                     |Size         |MD5 Checksum                    |Comment      |
 |:--------:|:-----------------------------------------------------------------------:|:-----------:|:------------------------------:|:-----------:|
+|2026-05-29|[xrootd-5.9.5.tar.gz]({{ site.url }}/download/v5.9.5/xrootd-5.9.5.tar.gz)|6958836 bytes|fe3dfa480ff58b183bb39e2ea6c20572|Version 5.9.5|
 |2026-05-19|[xrootd-6.0.2.tar.gz]({{ site.url }}/download/v6.0.2/xrootd-6.0.2.tar.gz)|7167999 bytes|a694dedf4497c92d8bb7371b3ed368fe|Version 6.0.2|
 |2026-05-18|[xrootd-5.9.4.tar.gz]({{ site.url }}/download/v5.9.4/xrootd-5.9.4.tar.gz)|6958435 bytes|9e2b3274d04e66ddcd40bf32d3cb8a11|Version 5.9.4|
 |2026-05-05|[xrootd-6.0.1.tar.gz]({{ site.url }}/download/v6.0.1/xrootd-6.0.1.tar.gz)|7168580 bytes|062dcceac16c8b62182800744e182235|Version 6.0.1|
