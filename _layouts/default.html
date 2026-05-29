@@ -1,15 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <link type="text/css" media="screen" rel="stylesheet" href="{{ '/style.css' | relative_url }}" />
   <title>{% if page.title %} {{ page.title }} | {% endif %} XRootD</title>
   <link rel="alternate" type="application/rss+xml" href="http://xrootd.org/rss.xml" title="New from the XRootD project" />
 </head>
-
 <body>
 
   <div id="container">
@@ -19,30 +15,14 @@
   </div>
 
   <ul id="tabnav">
-    <li><a href="{{ '/index.html' | relative_url }}"
-        {% if page.tab == "home" %} class="active" {% endif %}>
-        home</a></li>
-    <li><a href="{{ '/dload.html' | relative_url }}"
-        {% if page.tab == "download" %} class="active" {% endif %}>
-        download</a></li>
-    <li><a href="{{ '/docs.html' | relative_url }}"
-        {% if page.tab == "docs" %} class="active" {% endif %}>
-        docs</a></li>
-    <li><a href="{{ '/development.html' | relative_url }}"
-        {% if page.tab == "development" %} class="active" {% endif %}>
-        development</a></li>
-    <li><a href="{{ '/evolution.html' | relative_url }}"
-        {% if page.tab == "evolution" %} class="active" {% endif %}>
-        evolution</a></li>
-    <li><a href="{{ '/collaboration.html' | relative_url }}"
-        {% if page.tab == "collaboration" %} class="active" {% endif %}>
-        collaboration</a></li>
-    <li><a href="{{ '/contact.html' | relative_url }}"
-        {% if page.tab == "contact" %} class="active" {% endif %}>
-        contact</a></li>
-    <li><a href="{{ '/archive.html' | relative_url }}"
-        {% if page.tab == "archive" %} class="active" {% endif %}>
-        archive</a></li>
+    <li><a href="{{ '/index.html' | relative_url }}" {% if page.tab == "home" %} class="active" {% endif %}>home</a></li>
+    <li><a href="{{ '/dload.html' | relative_url }}" {% if page.tab == "download" %} class="active" {% endif %}>download</a></li>
+    <li><a href="{{ '/docs.html' | relative_url }}" {% if page.tab == "docs" %} class="active" {% endif %}>docs</a></li>
+    <li><a href="{{ '/development.html' | relative_url }}" {% if page.tab == "development" %} class="active" {% endif %}>development</a></li>
+    <li><a href="{{ '/evolution.html' | relative_url }}" {% if page.tab == "evolution" %} class="active" {% endif %}>evolution</a></li>
+    <li><a href="{{ '/collaboration.html' | relative_url }}" {% if page.tab == "collaboration" %} class="active" {% endif %}>collaboration</a></li>
+    <li><a href="{{ '/contact.html' | relative_url }}" {% if page.tab == "contact" %} class="active" {% endif %}>contact</a></li>
+    <li><a href="{{ '/archive.html' | relative_url }}" {% if page.tab == "archive" %} class="active" {% endif %}>archive</a></li>
   </ul>
 
   <div id="content">
@@ -51,14 +31,11 @@
 
   <div id="footer">
     <p>
-      <a href="http://validator.w3.org/check?uri=referer">Valid XHTML 1.0</a> | Copyright &copy;
-      <a href="http://slac.stanford.edu/">SLAC</a>/<a href="http://cern.ch">CERN</a> | Design based on
-      <a href="http://www.oswd.org/design/information/id/3203">Uncomplicated</a>
+      Copyright &copy; <a href="http://slac.stanford.edu/">SLAC</a> / <a href="http://cern.ch">CERN</a> |
+      Design based on <a href="http://www.oswd.org/design/information/id/3203">Uncomplicated</a>
     </p>
   </div>
 
   </div>
-
 </body>
-
 </html>
