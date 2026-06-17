@@ -30,6 +30,7 @@ tab:    archive
 |25-Nov-2015|[html]({{ site.url }}/doc/dev42/xrd_config.htm) [pdf]({{ site.url }}/doc/dev42/xrd_config.pdf)           |Xrd/XRootd Configuration Reference (4.x)                            |
 |27-Oct-2017|[html]({{ site.url }}/doc/dev48/xrd_config.htm) [pdf]({{ site.url }}/doc/dev48/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (4.8)                            |
 |12-Dec-2011|[html]({{ site.url }}/doc/prod/xrd_config.htm) [pdf]({{ site.url }}/doc/prod/xrd_config.pdf)        |Xrd/XRootd Configuration Reference (3.x)                               |
+|08-Dec-2021|[html]({{ site.url }}/doc/dev54/ofs_config.htm) [pdf]({{ site.url }}/doc/dev54/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.4)|
 |25-Jun-2021|[html]({{ site.url }}/doc/dev53/ofs_config.htm) [pdf]({{ site.url }}/doc/dev53/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.3)      |
 |05-Apr-2021|[html]({{ site.url }}/doc/dev52/ofs_config.htm) [pdf]({{ site.url }}/doc/dev52/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.2)      |
 |20-Nov-2020|[html]({{ site.url }}/doc/dev51/ofs_config.htm) [pdf]({{ site.url }}/doc/dev51/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.1)      |
@@ -119,7 +120,7 @@ get-Oct-2016|[html]({{ site.url }}/doc/dev4/tpc_protocol.htm) [pdf]({{ site.url 
 |2020-02-03|[xrootd-4.11.2.tar.gz]({{ site.url }}/download/v4.11.2/xrootd-4.11.2.tar.gz)|2551556 bytes|065f8c1d51fdb8b109d2e42e457175f1|XRootD 4.11.2|
 |2019-12-17|[xrootd-4.11.1.tar.gz]({{ site.url }}/download/v4.11.1/xrootd-4.11.1.tar.gz)|2549971 bytes|3a243f7d4c9868cead59c5861530ebce|XRootD 4.11.1|
 |2019-10-09|[xrootd-4.11.0.tar.gz]({{ site.url }}/download/v4.11.0/xrootd-4.11.0.tar.gz)|2548380 bytes|f3cbd2c8dd680a2fdf6b33e77bba09bf|XRootD 4.11.0|
-|2019-10-01|[xrootd-4.10.1.tar.gz]({{ site.url }}/download/v4.10.1/xrootd-4.10.1.tar.gz)|2532982 bytes|4cac567741a6d95f63fafac5f9e648e2|XRootD 4.10.1| 
+|2019-10-01|[xrootd-4.10.1.tar.gz]({{ site.url }}/download/v4.10.1/xrootd-4.10.1.tar.gz)|2532982 bytes|4cac567741a6d95f63fafac5f9e648e2|XRootD 4.10.1|
 |2019-07-15|[xrootd-4.10.0.tar.gz]({{ site.url }}/download/v4.10.0/xrootd-4.10.0.tar.gz)|2532873 bytes|bb7d29d6d885e3fa318144ad16b49b10|XRootD 4.10.0|
 |2019-04-05|[xrootd-4.9.1.tar.gz]({{ site.url }}/download/v4.9.1/xrootd-4.9.1.tar.gz)|2523674 bytes|9508f2dda35db46baa5e421707b32d59|XRootD 4.9.1|
 |2019-04-02|[xrootd-4.8.6.tar.gz]({{ site.url }}/download/v4.8.6/xrootd-4.8.6.tar.gz)|2396858 bytes|198ba1be6f3ffa0f9231d52e18d0c5e6|XRootD 4.8.6|

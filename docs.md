@@ -12,24 +12,24 @@ tab:    docs
 |06-Apr-2022|[html]({{ site.url }}/doc/dev55/Syntax_config.htm) [pdf]({{ site.url }}/doc/dev55/Syntax_config.pdf)  |Configuration File Syntax (5.5)|
 |12-Jul-2024|[html]({{ site.url }}/doc/dev57/xrd_config.htm) [pdf]({{ site.url }}/doc/dev57/xrd_config.pdf)        |Xrd/XRootD Configuration Reference (5.7)|
 |18-Feb-2026|[html]({{ site.url }}/doc/dev6/xrd_config.html) [pdf]({{ site.url }}/doc/dev6/xrd_config.pdf)          |Xrd/XRootD Configuration Reference (6.0)|
-|08-Dec-2021|[html]({{ site.url }}/doc/dev54/ofs_config.htm) [pdf]({{ site.url }}/doc/dev54/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.4)|
 |11-Apr-2024|[html]({{ site.url }}/doc/dev56/ofs_config.htm) [pdf]({{ site.url }}/doc/dev56/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (5.6)|
+|30-Apr-2026|[html]({{ site.url }}/doc/dev61/ofs_config.htm) [pdf]({{ site.url }}/doc/dev61/ofs_config.pdf)        |Open File System &amp; Open Storage System Configuration Reference (6.1)|
 |16-Jul-2025|[html]({{ site.url }}/doc/dev6/OssArc-Ref.htm) [pdf]({{ site.url }}/doc/dev6/OssArc-Ref.pdf)          |Open Storage System Archive Plug-in Reference (OssArc 6.0)|
 |04-Dec-2023|[html]({{ site.url }}/doc/dev56/pss_config.htm) [pdf]({{ site.url }}/doc/dev56/pss_config.pdf)        |Proxy Storage Services Configuration Reference (5.6)|
-|25-Sep-2025|[html]({{ site.url }}/doc/dev6/pss_config.htm) [pdf]({{ site.url }}/doc/dev6/pss_config.pdf)          |Proxy Storage Services Configuration Reference (6.0)|
+|05-May-2026|[html]({{ site.url }}/doc/dev6/pss_config.htm) [pdf]({{ site.url }}/doc/dev6/pss_config.pdf)          |Proxy Storage Services Configuration Reference (6.0)|
 |16-Jul-2024|[html]({{ site.url }}/doc/dev57/cms_config.htm) [pdf]({{ site.url }}/doc/dev57/cms_config.pdf)        |Cluster Management Service Configuration Reference (5.7)|
 |09-Aug-2024|[html]({{ site.url }}/doc/dev6/cms_config.htm) [pdf]({{ site.url }}/doc/dev6/cms_config.pdf)          |Cluster Management Service Configuration Reference (6.0)|
 |13-Oct-2022|[html]({{ site.url }}/doc/dev54/sec_config.htm) [pdf]({{ site.url }}/doc/dev54/sec_config.pdf)        |Security Configuration Reference (5.4)|
 |02-Sep-2024|[html]({{ site.url }}/doc/dev56/sec_config.htm) [pdf]({{ site.url }}/doc/dev56/sec_config.pdf)        |Security Configuration Reference (5.6)|
 |21-Dec-2018|[html]({{ site.url }}/doc/gsidocs/XRootDGSIProtocolSpecifications.html) [pdf]({{ site.url }}/doc/gsidocs/XRootD-GSI-Protocol-Specifications.pdf) |XRootD GSI Protocol Specification|
 |08-Mar-2024|[html]({{ site.url }}/doc/dev57/xrd_monitoring.htm) [pdf]({{ site.url }}/doc/dev57/xrd_monitoring.pdf)|System Monitoring Reference (5.7)|
-|19-Sep-2025|[html]({{ site.url }}/doc/dev6/xrd_monitoring.htm) [pdf]({{ site.url }}/doc/dev6/xrd_monitoring.pdf)|System Monitoring Reference (6)|
+|29-Sep-2025|[html]({{ site.url }}/doc/dev6/xrd_monitoring.htm) [pdf]({{ site.url }}/doc/dev6/xrd_monitoring.pdf)|System Monitoring Reference (6)|
 |23-Jun-2020|[html]({{ site.url }}/doc/dev50/frm_config.htm) [pdf]({{ site.url }}/doc/dev50/frm_config.pdf)        |File Residency Manager Reference (5.x)|
 |11-Feb-2011|[html]({{ site.url }}/doc/prod/frm_migr.htm) [pdf]({{ site.url }}/doc/prod/frm_migr.pdf)            |Migrating to Extended Attribute Name and Data Spaces|
 |15-Oct-2020|[html]({{ site.url }}/doc/dev50/ssi_reference-V3.htm) [pdf]({{ site.url }}/doc/dev50/ssi_reference-V3.pdf) |XRootD Scalable Service Interface Reference V3 (5.0)|
 |22-Sep-2022|[html]({{ site.url }}/doc/xrdcl-docs/www/xrdcldocs.html) [pdf]({{ site.url }}/doc/xrdcl-docs/xrdcldocs.pdf) |XRootD Client Configuration &amp; API Reference (4.9)|
 |04-Dec-2023|[html]({{ site.url }}/doc/dev56/XRdv520.htm) [pdf]({{ site.url }}/doc/dev56/XRdv520.pdf)              |XRootD Protocol Reference (Version 5.2.0)|
-|18-Feb-2026|[html]({{ site.url }}/doc/dev6/XRdv520.html) [pdf]({{ site.url }}/doc/dev6/XRdv520.pdf)              |XRootD Protocol Reference (Version 5.2.0)|
+|16-Jun-2026|[html]({{ site.url }}/doc/dev6/XRdv520.html) [pdf]({{ site.url }}/doc/dev6/XRdv520.pdf)              |XRootD Protocol Reference (Version 5.2.0)|
 |13-Apr-2020|[html]({{ site.url }}/doc/dev49/tpc_protocol.htm) [pdf]({{ site.url }}/doc/dev49/tpc_protocol.pdf)    |XRootD Third Party Protocol Reference (TPC Version 2)|
 |11-Dec-2023|[html]({{ site.url }}/doc/doxygen/current/index.html)|XRootD Doxygen Docs|
 |11-Dec-2023|[html]({{ site.url }}/doc/python/latest)|XRootD Python Bindings Docs|
