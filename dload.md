@@ -16,6 +16,7 @@ git clone https://github.com/xrootd/xrootd.git
 
 |Date      |File                                                                     |Size         |MD5 Checksum                    |Comment     |
 |:--------:|:-----------------------------------------------------------------------:|:-----------:|:------------------------------:|:----------:|
+|2026-08-11|[xrootd-6.1.1.tar.gz]({{ site.url }}/download/v6.1.1/xrootd-6.1.1.tar.gz)|7808073 bytes|f073de1a4611d99e21b1ab66a0ebe834|XRootD 6.1.1|
 |2026-08-07|[xrootd-5.9.7.tar.gz]({{ site.url }}/download/v5.9.7/xrootd-5.9.7.tar.gz)|6973307 bytes|a1dfc399fc6e26f5140c5646a09c05d7|XRootD 5.9.7|
 |2026-06-20|[xrootd-6.1.0.tar.gz]({{ site.url }}/download/v6.1.0/xrootd-6.1.0.tar.gz)|7213160 bytes|a3878c2c555eede1a0b6468e5920615f|XRootD 6.1.0|
 |2026-06-20|[xrootd-5.9.6.tar.gz]({{ site.url }}/download/v5.9.6/xrootd-5.9.6.tar.gz)|6961773 bytes|b30490b704a0b79aa1a4c8029e05625c|XRootD 5.9.6|
