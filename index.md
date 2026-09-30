@@ -34,7 +34,9 @@ systems like [ceph](https://ceph.io).
  * [LICENSE](COPYING.LGPL.txt) - XRootD is distributed under the terms of the GNU LGPL License
  * [Policies](policies/SWRSP.htm) - Software Release and Support Policy
  * [WLCG Privacy Notice](https://wlcg-docs.web.cern.ch/policy/data_privacy/WLCGPrivacyNotice2022.pdf) - recommended privacy policy for sites using XRootD
- * [Release Notes](https://github.com/xrootd/xrootd/releases) - a list of significant changes between the releases
+ * [Release Notes on GitHub](https://github.com/xrootd/xrootd/releases) - list of significant changes in latest releases
+ * [Release History](https://raw.githubusercontent.com/xrootd/xrootd/refs/heads/master/docs/ReleaseNotes.txt) - full list of release notes since XRootD 3.0
+ * [XRootD on Linux Insights](https://insights.linuxfoundation.org/project/xrootd)
 
 ## News
 
