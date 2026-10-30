@@ -129,6 +129,32 @@ li::marker {
 	border: 1px solid #336399;
 }
 
+/* Roadmap: tables with paragraphs in their cells */
+#content table.roadmap
+{
+	line-height: 1.4em;
+	font-size: 0.9em;
+	border-collapse: collapse;
+}
+
+#content table.roadmap th,
+#content table.roadmap td
+{
+	text-align: left;
+	vertical-align: top;
+	padding: 0.5em;
+}
+
+#content table.roadmap td:first-child
+{
+	font-weight: bold;
+	min-width: 10em;
+}
+
+#content h4 {
+	color: #336299;
+}
+
 /*#content tr:nth-child(odd) {background: #CCC}*/
 #content tr:nth-child(even)
 {
